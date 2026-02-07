@@ -8,6 +8,6 @@ A simple HTML & CSS template to quickly start a webpage with easy to customize w
 
    ```bash
    git clone https://github.com/doggodgcodes/html-site-template.git
-   cd 67-stupid-games
+   cd html-site-template
    ```
    ![Repo Image](https://doggodgcodes.github.io/assets/github-download-tutorial.jpg)
